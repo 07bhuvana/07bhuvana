@@ -22,7 +22,7 @@ class Bhuvaneswari:
         self.degree       = "M.Tech Software Engineering @ VIT (CGPA: 8.66)"
         self.email        = "bhuvaneswarijo712@gmail.com"
         self.github       = "github.com/07bhuvana"
-        self.linkedin     = "linkedin.com/in/bhuvaneswarin"
+        self.linkedin     = "https://www.linkedin.com/in/bhuvaneswari-n-4b218a358/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Ba0P11R7oSyuRLtRbseeZZw%3D%3D"
 
         self.stack        = ["Java", "Python", "JavaScript", "SQL",
                              "Spring Boot", "React", "TensorFlow",
