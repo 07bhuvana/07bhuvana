@@ -108,9 +108,7 @@
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=07bhuvana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=07bhuvana&theme=discord&no-frame=true&no-bg=true&row=1&column=6" />
 ---
 
 ## 💼 Work Experience
